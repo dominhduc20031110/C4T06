@@ -1,3 +1,5 @@
 print("Em la Duc")
 print("Em 17 tuoi")
 print("Em hoc tai THPT Chuyen Su Pham")
+print("Em chua co Gau")
+print("Em muon tro thanh lap trinh vien")
